@@ -32,7 +32,6 @@ int main(){
 
     }
     return result;
-
  }
 
  int find_last(int A[],int n,int x){
