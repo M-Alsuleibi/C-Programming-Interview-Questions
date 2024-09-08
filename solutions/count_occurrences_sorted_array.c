@@ -25,8 +25,7 @@ int main(){
 }
 // Variation of finding first/last occurence using flag(searchFirst)
  int BinarySearch(int* A,int n,int x, bool searchFirst){
-
-    int L = 0 , R = n - 1, result = -1;
+  int L = 0 , R = n - 1, result = -1;
 
     while (L <= R) {
 
